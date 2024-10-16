@@ -1,4 +1,4 @@
-# 👋 Hey there, I'm Ash!
+# 👋 Hey there, I'm Duc!
 **Architect of the digital unknown. Navigating the shadows of the web, crafting echoes in the void.**
 
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&color=F7DF1E)
@@ -8,7 +8,7 @@
 
 With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
 
-- 🔭 Currently working on top-secret projects to reshape industries.
-- 🌱 Always expanding my knowledge and contributing to open-source communities.
-- 🚀 On a mission to push the boundaries of what's possible with code.
+- 🔭 Currently working on exciting front-end projects to elevate digital experiences.
+- 🌱 Constantly expanding my skills in React, Next.js, and JavaScript ecosystems.
+- 🚀 On a mission to push the boundaries of web development and create impactful, user-focused solutions.
 
