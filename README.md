@@ -7,7 +7,7 @@
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&color=3776AB)
 ![Linux](https://img.shields.io/badge/System-Linux-informational?style=flat&logo=linux&color=FCC624)
 
-With a deep passion for **Customer Experience, Fintech, InfoSec,** and **AI-driven technologies**. I specialize in turning complex challenges into scalable, innovative solutions.
+With a deep passion for **Technology**. I specialize in turning complex challenges into scalable, innovative solutions.
 
 - 🔭 Currently working on exciting front-end projects to elevate digital experiences.
 - 🌱 Constantly expanding my skills in React, Next.js, and JavaScript ecosystems.
